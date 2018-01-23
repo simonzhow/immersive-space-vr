@@ -9,7 +9,7 @@ public class TeleportPad : MonoBehaviour {
 
 	void Update() {
 		if (disableTimer > 0) {
-			disableTimer -= Time.deltaTime;
+			disableTimer -= Time.deltaTime; // this func will prevent the player from teleporting back and forth between two pads
 		}
 	}
 
