@@ -21,6 +21,7 @@ public class TeleportPad : MonoBehaviour {
 					Vector3 position = tp.gameObject.transform.position;
 					position.y += 2;
 					collider.gameObject.transform.position = position;
+					break;
 				}
 			}
 		}
