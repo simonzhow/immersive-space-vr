@@ -8969,12 +8969,12 @@ Prefab:
     - target: {fileID: 198844945956474038, guid: 3cdf614b79009ca49a2a5c117fb49c35,
         type: 2}
       propertyPath: randomSeed
-      value: 2074192762
+      value: 1473921502
       objectReference: {fileID: 0}
     - target: {fileID: 198844945956474038, guid: 3cdf614b79009ca49a2a5c117fb49c35,
         type: 2}
       propertyPath: InitialModule.startSize.scalar
-      value: 0.1
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 4000011081001030, guid: 3cdf614b79009ca49a2a5c117fb49c35, type: 2}
       propertyPath: m_LocalScale.y
@@ -9661,12 +9661,22 @@ Prefab:
     - target: {fileID: 198844945956474038, guid: 3cdf614b79009ca49a2a5c117fb49c35,
         type: 2}
       propertyPath: randomSeed
-      value: -1199897467
+      value: 229203449
       objectReference: {fileID: 0}
     - target: {fileID: 198673705310451750, guid: 3cdf614b79009ca49a2a5c117fb49c35,
         type: 2}
       propertyPath: randomSeed
       value: -1369467879
+      objectReference: {fileID: 0}
+    - target: {fileID: 198000011154698040, guid: 3cdf614b79009ca49a2a5c117fb49c35,
+        type: 2}
+      propertyPath: InitialModule.startSize.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198000011154698040, guid: 3cdf614b79009ca49a2a5c117fb49c35,
+        type: 2}
+      propertyPath: randomSeed
+      value: -223467718
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3cdf614b79009ca49a2a5c117fb49c35, type: 2}
